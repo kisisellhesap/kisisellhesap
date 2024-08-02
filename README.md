@@ -21,9 +21,22 @@ Ben bir Front-End Developer öğrencisiyim ve sürekli olarak yeni teknolojiler 
 
 ## 🛠️ Kullandığım Teknolojiler ve Araçlar
 
-- **Diller:** HTML, CSS, JavaScript
-- **Frameworkler:** React, Vue.js
-- **Araçlar:** Git, Webpack, Babel, npm, VS Code
+### Diller
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Frameworkler
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+
+### Araçlar
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
 ## 📈 GitHub İstatistiklerim
 
@@ -39,12 +52,6 @@ Proje açıklaması...
 ### [Proje 2: Proje Adı](https://github.com/kisisellhesap/proje-2)
 Proje açıklaması...
 
-### [Proje 3: Proje Adı](https://github.com/kisisellhesap/proje-3)
-Proje açıklaması...
 
-## 📚 Blog Yazılarım
 
-- [Blog Yazısı 1](https://medium.com/@kullanıcıadınız/blog-yazısı-1)
-- [Blog Yazısı 2](https://medium.com/@kullanıcıadınız/blog-yazısı-2)
 
-Teşekkürler ve iyi kodlamalar!
