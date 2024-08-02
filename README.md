@@ -1,12 +1,7 @@
 # Merhaba, ben [Can]!
 
-[![GitHub takipçiler](https://img.shields.io/github/followers/kullanıcıadınız?label=Takipçiler&style=social)](https://github.com/kullanıcıadınız)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/kullanıcıadınız/)
-[![Twitter](https://img.shields.io/twitter/follow/kullanıcıadınız?label=Takip%20Et&style=social)](https://twitter.com/kullanıcıadınız)
-
-## 🌐 Sosyal Medya
-
-- LinkedIn: [linkedIn hesabınız](https://www.linkedin.com/in/ahmetcankaragoz/)
+[![GitHub takipçiler](https://img.shields.io/github/followers/kisisellhesap?label=Takipçiler&style=social)](https://github.com/kisisellhesap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/ahmetcankaragoz/)
 
 ## 🚀 Hakkımda
 
