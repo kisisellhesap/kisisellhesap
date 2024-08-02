@@ -27,7 +27,7 @@ Ben bir Front-End Developer öğrencisiyim ve sürekli olarak yeni teknolojiler 
 
 ## 📈 GitHub İstatistiklerim
 
-[![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=kisellhesap&show_icons=true&theme=radical)](https://github.com/kisisellhesap)
+[![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=kisisellhesap&show_icons=true&theme=radical)](https://github.com/kisisellhesap)
 
 [![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=kisisellhesap&layout=compact&theme=radical)](https://github.com/kisisellhesap)
 
