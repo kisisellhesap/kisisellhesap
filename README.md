@@ -1,4 +1,4 @@
-# Merhaba, ben [İsminiz]!
+# Merhaba, ben [Can]!
 
 [![GitHub takipçiler](https://img.shields.io/github/followers/kullanıcıadınız?label=Takipçiler&style=social)](https://github.com/kullanıcıadınız)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/kullanıcıadınız/)
@@ -6,9 +6,7 @@
 
 ## 🌐 Sosyal Medya
 
-- LinkedIn: [linkedIn hesabınız](https://www.linkedin.com/in/kullanıcıadınız/)
-- Twitter: [twitter hesabınız](https://twitter.com/kullanıcıadınız)
-- Kişisel Websitem: [website linkiniz](https://www.websiteadresiniz.com)
+- LinkedIn: [linkedIn hesabınız](https://www.linkedin.com/in/ahmetcankaragoz/)
 
 ## 🚀 Hakkımda
 
