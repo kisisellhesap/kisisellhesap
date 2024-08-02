@@ -50,7 +50,7 @@ Someone who works hard to make his dreams come true . For a fresh start I decide
 ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=flat-square&logo=frontend-mentor&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
-
+![Udemig](https://img.shields.io/badge/Udemig-EC5252?style=flat-square&logo=udemy&logoColor=white)
 
 ## 📈 GitHub İstatistiklerim
 
