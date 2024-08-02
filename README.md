@@ -12,12 +12,20 @@
 
 ## 🚀 Hakkımda
 
-Ben bir Front-End Developer öğrencisiyim ve sürekli olarak yeni teknolojiler öğrenmekten ve projeler geliştirmekten keyif alıyorum. Özellikle JavaScript, React ve CSS alanında kendimi geliştiriyorum.
+Someone who works hard to make his dreams come true . For a fresh start I decided to find a job that would make me happy. l am learning coding now for become a front end developer , l have about Html , css and javascript . Besides , l making project in this learning process . if you want to look my projects you can check in github and vercel. l am exploiting kodluyoruz, patika, udemy, w3school ,hackerrank , coderbyte, frontend mentor like websites in this learning process. if you want to text me about my projects and anything you can contact me
 
 - 🔭 Şu an üzerinde çalıştığım proje: [Proje adı veya linki]
 - 🌱 Şu an öğrendiğim şeyler: React, Redux, TypeScript
 - 💬 Bana sorabilirsiniz: HTML, CSS, JavaScript, React
 - 📫 Bana ulaşın: [email@example.com](mailto:email@example.com)
+
+### Soft Skills
+
+- 💡 Yaratıcılık
+- 🤝 Takım Çalışması
+- 🗣️ İletişim Becerileri
+- 📅 Zaman Yönetimi
+- 🔍 Problem Çözme
 
 ## 🛠️ Kullandığım Teknolojiler ve Araçlar
 
@@ -28,14 +36,20 @@ Ben bir Front-End Developer öğrencisiyim ve sürekli olarak yeni teknolojiler 
 
 ### Frameworkler
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Araçlar
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📖 Faydalandığım Kaynaklar
+
+![W3Schools](https://img.shields.io/badge/W3Schools-4CAF50?style=flat-square&logo=w3schools&logoColor=white)
+![Patika.dev](https://img.shields.io/badge/Patika.dev-3423A6?style=flat-square&logo=patika.dev&logoColor=white)
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=flat-square&logo=frontend-mentor&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
 
 
 ## 📈 GitHub İstatistiklerim
@@ -46,11 +60,11 @@ Ben bir Front-End Developer öğrencisiyim ve sürekli olarak yeni teknolojiler 
 
 ## 💼 Projelerim
 
-### [Proje 1: Proje Adı](https://github.com/kisisellhesap/proje-1)
-Proje açıklaması...
+### [Proje 1: Proje Adı](https://github.com/kisisellhesap/multi-step-form-main)
+- This project is a challenge from the frontendmentor site. 
+- It has a structure with a form and consists of various steps.
+- React technology was used in the project and its dynamic structure was provided in this way.
 
-### [Proje 2: Proje Adı](https://github.com/kisisellhesap/proje-2)
-Proje açıklaması...
 
 
 
