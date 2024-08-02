@@ -27,19 +27,19 @@ Ben bir Front-End Developer öğrencisiyim ve sürekli olarak yeni teknolojiler 
 
 ## 📈 GitHub İstatistiklerim
 
-[![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)](https://github.com/kullanıcıadınız)
+[![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=kisellhesap&show_icons=true&theme=radical)](https://github.com/kisisellhesap)
 
-[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=kullanıcıadınız&layout=compact&theme=radical)](https://github.com/kullanıcıadınız)
+[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=kisisellhesap&layout=compact&theme=radical)](https://github.com/kisisellhesap)
 
 ## 💼 Projelerim
 
-### [Proje 1: Proje Adı](https://github.com/kullanıcıadınız/proje-1)
+### [Proje 1: Proje Adı](https://github.com/kisisellhesap/proje-1)
 Proje açıklaması...
 
-### [Proje 2: Proje Adı](https://github.com/kullanıcıadınız/proje-2)
+### [Proje 2: Proje Adı](https://github.com/kisisellhesap/proje-2)
 Proje açıklaması...
 
-### [Proje 3: Proje Adı](https://github.com/kullanıcıadınız/proje-3)
+### [Proje 3: Proje Adı](https://github.com/kisisellhesap/proje-3)
 Proje açıklaması...
 
 ## 📚 Blog Yazılarım
