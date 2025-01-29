@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Someone who works hard to make his dreams come true . For a fresh start I decided to find a job that would make me happy. l am learning coding now for become a front end developer , l have about Html , css and javascript . Besides , l making project in this learning process . if you want to look my projects you can check in github and vercel. l am exploiting kodluyoruz, patika, udemy, w3school ,hackerrank , coderbyte, frontend mentor like websites in this learning process. if you want to text me about my projects and anything you can contact me
+Someone who works hard to fulfill his dreams. In search of a fresh start, I embarked on a journey to find a career that suits my happiness and aspirations. I'm currently learning to code to become a skilled Front-End Developer, focusing on HTML, CSS, JavaScript and React. In the meantime, I'm developing projects that will strengthen my skills. You can check out my work on GitHub and Vercel and feel free to contact me if you'd like to check out my projects or connect.
 
 - 🌱 Currently learning: TypeScript, Next.js
 - 💬 Ask me about: HTML, CSS, Scss, Bootstrap, Tailwind Css, JavaScript, Redux, React
