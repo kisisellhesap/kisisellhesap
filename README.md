@@ -19,7 +19,6 @@ Someone who works hard to make his dreams come true . For a fresh start I decide
 - 📅 Time Management
 - 🔍 Problem Solving
 
-## 🛠️ Technologies and Tools I Use
 
 ## 🛠️ Technologies and Tools I Use
 
