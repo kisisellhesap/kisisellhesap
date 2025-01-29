@@ -7,7 +7,7 @@
 
 Someone who works hard to make his dreams come true . For a fresh start I decided to find a job that would make me happy. l am learning coding now for become a front end developer , l have about Html , css and javascript . Besides , l making project in this learning process . if you want to look my projects you can check in github and vercel. l am exploiting kodluyoruz, patika, udemy, w3school ,hackerrank , coderbyte, frontend mentor like websites in this learning process. if you want to text me about my projects and anything you can contact me
 
-- 🌱 Currently learning: React, Redux, TypeScript
+- 🌱 Currently learning: TypeScript, Next.js
 - 💬 Ask me about: HTML, CSS, Scss, Bootstrap, Tailwind Css, JavaScript, Redux, React
 - 📫 How to reach me: [ahmetcannkaragoz@gmail.com](mailto:ahmetcannkaragoz@gmail.com)
 
