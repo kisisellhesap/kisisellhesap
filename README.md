@@ -3,62 +3,81 @@
 [![GitHub followers](https://img.shields.io/github/followers/kisisellhesap?label=Takipçiler&style=social)](https://github.com/kisisellhesap)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/ahmetcankaragoz/)
 
+---
+
 ## 🚀 About Me
 
-Someone who works hard to fulfill his dreams. In search of a fresh start, I embarked on a journey to find a career that suits my happiness and aspirations. I'm currently learning to code to become a skilled Front-End Developer, focusing on HTML, CSS, JavaScript and React. In the meantime, I'm developing projects that will strengthen my skills. You can check out my work on GitHub and Vercel and feel free to contact me if you'd like to check out my projects or connect.
+Someone who works hard to fulfill his dreams. In search of a fresh start, I embarked on a journey to find a career that suits my happiness and aspirations. I'm currently learning to code to become a skilled **Front-End Developer**, focusing on **HTML, CSS, JavaScript and React**.  
+In the meantime, I'm developing projects that will strengthen my skills. You can check out my work on **GitHub** and **Vercel**. Feel free to contact me if you'd like to collaborate!
 
-- 🌱 Currently learning: TypeScript, Next.js
-- 💬 Ask me about: HTML, CSS, Scss, Bootstrap, Tailwind Css, JavaScript, Redux, React
+- 🌱 Currently learning: **TypeScript, Next.js**
+- 💬 Ask me about: **HTML, CSS, Scss, Bootstrap, Tailwind Css, JavaScript, Redux, React**
 - 📫 How to reach me: [ahmetcannkaragoz@gmail.com](mailto:ahmetcannkaragoz@gmail.com)
 
-### Soft Skills
+---
 
-- 💡 Creativity
-- 🤝 Teamwork
-- 🗣️ Communication Skills
-- 📅 Time Management
-- 🔍 Problem Solving
+## 🧑‍💻 Soft Skills
 
+- 💡 Creativity  
+- 🤝 Teamwork  
+- 🗣️ Communication Skills  
+- 📅 Time Management  
+- 🔍 Problem Solving  
+
+---
 
 ## 🛠️ Technologies and Tools I Use
 
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 📌 Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+</p>
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+### 📌 Frameworks & Libraries  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+</p>
 
+### 📌 Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+---
 
 ## 📖 Resources I Use
 
-![W3Schools](https://img.shields.io/badge/W3Schools-4CAF50?style=flat-square&logo=w3schools&logoColor=white)
-![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
-![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=flat-square&logo=frontend-mentor&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/W3Schools-4CAF50?style=flat&logo=w3schools&logoColor=white" />
+  <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=flat&logo=frontend-mentor&logoColor=white" />
+</p>
 
-## 📈 GitHub Stats
+---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kisisellhesap&show_icons=true&theme=radical)](https://github.com/kisisellhesap)
+## 📈 GitHub Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisisellhesap&layout=compact&theme=radical)](https://github.com/kisisellhesap)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kisisellhesap&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisisellhesap&layout=compact&theme=radical" height="150" />
+</p>
 
-## 💼 My Projects
+---
 
-### [Multi Step Form](https://github.com/kisisellhesap/multi-step-form-main)
-- This project is a challenge from the frontendmentor site. 
-- It has a structure with a form and consists of various steps.
-- React technology was used in the project and its dynamic structure was provided in this way.
+## 💼 My Projects  
 
+### [Multi Step Form](https://github.com/kisisellhesap/multi-step-form-main)  
+- 🚀 Challenge project from **Frontend Mentor**  
+- 📋 Multi-step form with various stages  
+- ⚛️ Built with **React** for dynamic structure  
 
-
-
-
+---
