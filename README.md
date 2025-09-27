@@ -1,4 +1,4 @@
-# Hello, I'm Can ! (Student of Udemig) 👋
+# Hello, I'm Can ! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/kisisellhesap?label=Takipçiler&style=social)](https://github.com/kisisellhesap)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/ahmetcankaragoz/)
